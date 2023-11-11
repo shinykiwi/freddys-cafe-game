@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/L_Main.umap",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Levels/L_Kitchen.umap",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/UI/W_Orders.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/UI/W_Order.uasset",
+				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Assets/turkish-coffee-1327451.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Blueprints/BP_Recipe.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Blueprints/BP_Ingredient.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Blueprints/BP_TurkishCoffee.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/UI/W_LeftPanel.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/UI/W_Ingredient.uasset",
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Blueprints/GI_Main.uasset",
 				"C:/Users/bicak/Desktop/freddys-cafe-game/FreddysCafeGame/Content/Assets/textures/coffeecupEMPTY_DefaultMaterial_BaseColor.uasset",
 				"C:/Users/bicak/Desktop/freddys-cafe-game/FreddysCafeGame/Content/Assets/textures/coffeecupEMPTY_DefaultMaterial_Normal.uasset",
 				"C:/Users/bicak/Desktop/freddys-cafe-game/FreddysCafeGame/Content/Assets/textures/coffeecupEMPTY_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
@@ -39,7 +51,6 @@
 				"C:/Users/bicak/Desktop/freddys-cafe-game/FreddysCafeGame/Content/Assets/textures/GrinderHandle/coffeeGrinderhandle_Material_001_Normal.uasset",
 				"C:/Users/bicak/Desktop/freddys-cafe-game/FreddysCafeGame/Content/Assets/textures/GrinderHandle/coffeeGrinderhandle_Material_001_OcclusionRoughnessMetallic.uasset",
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/L_Main.umap",
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/ThirdPerson/Blueprints/BP_Camera.uasset",
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
@@ -235,12 +246,7 @@
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset",
 				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset",
-				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
-				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Levels/L_Kitchen.umap",
-				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/UI/W_Orders.uasset",
-				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/UI/W_Order.uasset",
-				"/Users/Shared/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Assets/turkish-coffee-1327451.uasset"
+				"/Users/kirafountain/Documents/GitHub/freddys-cafe-game/FreddysCafeGame/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset"
 			]
 		}
 	]
