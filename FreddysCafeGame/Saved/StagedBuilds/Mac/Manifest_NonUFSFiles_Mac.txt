@@ -1,0 +1,16 @@
+FreddysCafeGame/Binaries/Mac/FreddysCafeGame-Mac-Shipping.app/Contents/Info.plist	2023-11-12T21:55:19.803Z
+FreddysCafeGame/Binaries/Mac/FreddysCafeGame-Mac-Shipping.app/Contents/MacOS/FreddysCafeGame-Mac-Shipping	2023-11-12T21:55:20.121Z
+FreddysCafeGame/Binaries/Mac/FreddysCafeGame-Mac-Shipping.app/Contents/PkgInfo	2023-11-12T21:55:19.814Z
+FreddysCafeGame/Binaries/Mac/FreddysCafeGame-Mac-Shipping.app/Contents/Resources/FreddysCafeGame.icns	2023-11-12T21:55:19.788Z
+FreddysCafeGame/Binaries/Mac/FreddysCafeGame-Mac-Shipping.app/Contents/_CodeSignature/CodeResources	2023-11-12T21:55:19.833Z
+FreddysCafeGame/Content/Splash/Splash.bmp	2023-11-12T21:32:03.199Z
+FreddysCafeGame-Mac-Shipping.app/Contents/Info.plist	2023-11-12T22:02:22.961Z
+FreddysCafeGame-Mac-Shipping.app/Contents/PkgInfo	2023-05-15T14:28:09.913Z
+FreddysCafeGame-Mac-Shipping.app/Contents/MacOS/FreddysCafeGame-Mac-Shipping	2023-05-15T13:55:25.390Z
+FreddysCafeGame-Mac-Shipping.app/Contents/Resources/FreddysCafeGame.icns	2023-11-12T21:55:19.788Z
+FreddysCafeGame/Content/freddyscafegame_sf_metal_sm5-metal_sm5.0.metallib	2023-11-12T22:02:21.881Z
+FreddysCafeGame/Content/global_sf_metal_sm5-metal_sm5.0.metallib	2023-11-12T21:55:39.835Z
+Engine/Binaries/ThirdParty/Intel/TBB/Mac/libtbb.dylib	2023-05-15T14:07:28.340Z
+Engine/Binaries/ThirdParty/Intel/TBB/Mac/libtbbmalloc.dylib	2023-05-15T14:07:28.341Z
+Engine/Binaries/ThirdParty/Ogg/Mac/libogg.dylib	2023-05-15T14:07:33.178Z
+Engine/Binaries/ThirdParty/Vorbis/Mac/libvorbis.dylib	2023-05-15T14:07:42.017Z
